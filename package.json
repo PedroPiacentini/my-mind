@@ -1,0 +1,16 @@
+{
+  "name": "my-mind",
+  "version": "1.0.0",
+  "description": "Your personal brain extension for organization and productivity.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^15.1.3",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
